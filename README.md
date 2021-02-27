@@ -1,2 +1,3 @@
-# esp32cam-3d-printer-monitor
-Camera stream and photo to SD card on layer change with pin low to high.
+# Monitor a 3D Printer and Take Photo on Layer Change.
+
+Basic functioning code only
